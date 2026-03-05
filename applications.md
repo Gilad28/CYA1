@@ -1,4 +1,4 @@
-##Applications Submitted##
+**Applications Submitted**
 
 MHTECHIN — Software Engineer Intern
 
@@ -32,11 +32,11 @@ Lockheed Martin — AI Software Developer Intern (Summer 2026)
 
 Pearson — Associate AI Scientist Intern
 
-##Evidence##
+**Evidence**
 Screen shots are in
 /Applications
 Screenshots show emails or confirmation pages
 
-##Summary##
+**Summary**
 I submitted applications to 16 different companies, 19 total applications. These positions were AI related, software, data, and product roles.
 The positions are important to me for my later career.
