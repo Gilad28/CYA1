@@ -1,40 +1,40 @@
-**Applications Submitted**
+## Applications Submitted
 
-MHTECHIN — Software Engineer Intern
+-MHTECHIN — Software Engineer Intern
 
-Mercury — Backend Engineering Intern
+-Mercury — Backend Engineering Intern
 
-ClaritasRx — Data Engineering Intern
+-ClaritasRx — Data Engineering Intern
 
-Staffline Solutions — Software Engineering Intern
+-Staffline Solutions — Software Engineering Intern
 
-ABC Fitness — Software Engineering Intern
+-ABC Fitness — Software Engineering Intern
 
-Kraft & Kennedy, Inc. — Engineering Internship
+-Kraft & Kennedy, Inc. — Engineering Internship
 
-BHG Financial — Software Engineering Intern
+-BHG Financial — Software Engineering Intern
 
-HealthEdge — Product Management Internship (Summer 2026)
+-HealthEdge — Product Management Internship (Summer 2026)
 
-Noblis — .NET Software Developer Intern (Summer 2026)
+-Noblis — .NET Software Developer Intern (Summer 2026)
 
-Seagate — Software Engineering / Technology Internship
+-Seagate — Software Engineering / Technology Internship
 
-ActBlue — Software Engineering Internship
+-ActBlue — Software Engineering Internship
 
-ezCater — Software Engineering Internship
+-ezCater — Software Engineering Internship
 
-Akamai Technologies — Web Developer / Cloud Technology Intern
+-Akamai Technologies — Web Developer / Cloud Technology Intern
 
-Koble — Software Engineering Intern
+-Koble — Software Engineering Intern
 
-Lockheed Martin — AI Software Developer Intern (Summer 2026)
+-Lockheed Martin — AI Software Developer Intern (Summer 2026)
 
-Pearson — Associate AI Scientist Intern
+-Pearson — Associate AI Scientist Intern
 
 **Evidence**
 Screen shots are in
-/Applications
+`/Applications`
 Screenshots show emails or confirmation pages
 
 **Summary**
